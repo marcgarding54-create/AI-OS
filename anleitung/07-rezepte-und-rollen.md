@@ -4,7 +4,7 @@ Ziel: Ein wiederkehrender Ablauf ist als Rezept gespeichert, und Claude gibt Tei
 
 ## Video
 
-{{VIDEO_07}}
+[Video ansehen (MP4, 19 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-07-rezepte-und-rollen.mp4)
 
 Länge: 03:02
 

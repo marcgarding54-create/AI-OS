@@ -4,7 +4,7 @@ Ziel: Jede Änderung ist nachvollziehbar und liegt zusätzlich online. Schlüsse
 
 ## Video
 
-{{VIDEO_05}}
+[Video ansehen (MP4, 22 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-05-sichern.mp4)
 
 Länge: 02:49
 

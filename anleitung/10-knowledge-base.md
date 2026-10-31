@@ -4,7 +4,7 @@ Ziel: Was du einmal gelernt hast, findet Claude wieder, in jedem Projekt. Dauer 
 
 ## Video
 
-{{VIDEO_10}}
+[Video ansehen (MP4, 17 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-10-knowledge-base.mp4)
 
 Länge: 02:23
 

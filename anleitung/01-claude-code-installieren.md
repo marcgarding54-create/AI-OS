@@ -4,7 +4,7 @@ Ziel: Claude Code läuft auf deinem Rechner und hat seine erste Aufgabe in einem
 
 ## Video
 
-{{VIDEO_01}}
+[Video ansehen (MP4, 17 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-01-claude-code-installieren.mp4)
 
 Länge: 03:17
 

@@ -4,7 +4,7 @@ Ziel: Claude kennt deine Regeln bei jedem Start, ohne dass du sie wiederholst. D
 
 ## Video
 
-{{VIDEO_03}}
+[Video ansehen (MP4, 15 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-03-hausordnung.mp4)
 
 Länge: 02:17
 

@@ -4,7 +4,7 @@ Ziel: Jede Sitzung beginnt dort, wo die letzte aufgehört hat. Dauer zum Mitmach
 
 ## Video
 
-{{VIDEO_04}}
+[Video ansehen (MP4, 17 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-04-kurzzeitgedaechtnis.mp4)
 
 Länge: 02:33
 

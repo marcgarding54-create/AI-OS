@@ -4,7 +4,7 @@ Ziel: Dein System läuft auf einem zweiten Rechner, und eine Arbeit wechselt per
 
 ## Video
 
-{{VIDEO_12}}
+[Video ansehen (MP4, 18 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-12-mehrere-rechner.mp4)
 
 Länge: 02:17
 

@@ -4,7 +4,7 @@ Ziel: Du weißt, was du auf deinem KI-Betriebssystem aufbauen kannst, und hast d
 
 ## Video
 
-{{VIDEO_13}}
+[Video ansehen (MP4, 12 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-13-was-du-damit-bauen-kannst.mp4)
 
 Dieser Teil ist reine Animation, ohne Schritte zum Nachklicken. Er zeigt, wofür du das System nutzen kannst.
 

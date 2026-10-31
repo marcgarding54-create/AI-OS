@@ -4,7 +4,7 @@ Ziel: Wiederkehrendes läuft von selbst: beim Ende einer Sitzung und freitags na
 
 ## Video
 
-{{VIDEO_11}}
+[Video ansehen (MP4, 18 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-11-automationen.mp4)
 
 Länge: 02:33
 

@@ -4,7 +4,7 @@ Ziel: Deine Notizen liegen in einem Obsidian-Ordner, und du sprichst mit Claude 
 
 ## Video
 
-{{VIDEO_02}}
+[Video ansehen (MP4, 18 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-02-arbeitsplatz.mp4)
 
 Länge: 02:50
 

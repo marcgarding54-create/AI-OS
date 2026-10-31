@@ -4,7 +4,7 @@ Ziel: Claude kann mehr als Dateien: Es holt die Termine der Woche aus deinem Kal
 
 ## Video
 
-{{VIDEO_06}}
+[Video ansehen (MP4, 13 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-06-werkzeuge-anbinden.mp4)
 
 Länge: 02:17
 

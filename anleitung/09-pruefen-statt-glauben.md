@@ -4,7 +4,7 @@ Ziel: „Fertig“ heißt bewiesen: Claude zeigt, dass es funktioniert, statt es
 
 ## Video
 
-{{VIDEO_09}}
+[Video ansehen (MP4, 17 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-09-pruefen-statt-glauben.mp4)
 
 Länge: 02:30
 

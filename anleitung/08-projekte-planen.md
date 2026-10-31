@@ -4,7 +4,7 @@ Ziel: Bevor gebaut wird, steht schriftlich fest, was gebaut wird und woran man m
 
 ## Video
 
-{{VIDEO_08}}
+[Video ansehen (MP4, 15 MB)](https://github.com/marcgarding54-create/AI-OS/releases/download/v1.0/teil-08-projekte-planen.mp4)
 
 Länge: 02:21
 
