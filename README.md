@@ -42,7 +42,7 @@ Durch alle Teile läuft ein Beispiel: ein persönlicher Wochenbericht. Er wächs
 
 ## Material
 
-- [Langfassung als PDF](material/langfassung.pdf): alle 12 Teile auf Folien, mit Links und Stolpersteinen
+- [Langfassung als PDF](material/langfassung.pdf): Teil 1 bis 12 auf Folien, mit Links und Stolpersteinen
 - [Kurzfassung als PDF](material/kurzfassung.pdf): die Präsentation in 15 Folien, etwa 10 Minuten
 - Grafiken: [Das KI-Betriebssystem](material/grafiken/1-das-ki-betriebssystem.png), [Der Arbeitsablauf](material/grafiken/2-der-arbeitsablauf.png), [Der Werkzeugkasten](material/grafiken/3-der-werkzeugkasten.png), [Akte und Handbuch](material/grafiken/4-akte-und-handbuch.png)
 

@@ -26,7 +26,7 @@ Erst ausfragen lassen, dann aufschreiben, dann bauen. Am Ende stehen zwei Dateie
 1. **Du:** Installiere den Skill grill-me. Er ist eine Datei `SKILL.md` im Ordner `~/.claude/skills/grill-me/` (Windows: `%USERPROFILE%\.claude\skills\grill-me\`). Den Inhalt findest du im Repo [RobMitt/grill-me-skill](https://github.com/RobMitt/grill-me-skill). Oder lass Claude es tun:
 
    ```text
-   Installiere mir den Skill grill-me von github.com/RobMitt/grill-me-skill.
+   Installiere mir den Skill grill-me von github.com/RobMitt/grill-me-skill. Zeig mir vorher den Inhalt der SKILL.md und erklär mir kurz, was er tut.
    ```
 
    Dieser Schritt ist im Video nicht zu sehen und wurde noch nicht gegen die Anleitung des Repos getestet (**ungeprüft**).

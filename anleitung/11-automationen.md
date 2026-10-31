@@ -42,6 +42,8 @@ Ein Hook läuft mit deinen Rechten und ohne Rückfrage. Trage nur Befehle ein, d
    Passt so, das Log bleibt im Repo. Leg los und teste es.
    ```
 
+   „Im Repo“ heißt hier: im Projektordner. Claude schließt die Log-Datei per `.gitignore` vom Hochladen aus.
+
    Claude richtet alles ein und testet echt: eine kurze Sitzung, danach liegt ein neuer Speicherpunkt auf GitHub. Der Tester prüft auch die Fehlerfälle. Geht etwas schief, steht es im Log, statt still zu scheitern.
 
 4. **Du:** Öffne dein Repo auf github.com. Ein neuer Speicherpunkt, den du nicht selbst gemacht hast, zeigt: Der Hook läuft.
